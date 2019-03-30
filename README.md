@@ -10,4 +10,4 @@ gcc contagem.c -o contagem
 ```
 ./contagem
 ```
-Após executar, irá gerar um arquivo .txt com as comparações, basta plotar o gráfico em R com o script
+Após executar, irá gerar um arquivo .txt com as comparações, basta plotar o gráfico em R com o script grafico.R
